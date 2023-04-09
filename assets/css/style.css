@@ -76,7 +76,11 @@ h6 {
 }
 
 #header .logo {
-  height: 50px;
+  height: 55px;
+}
+
+#footer .logo {
+  height: 80px;
 }
 
 #header .logo a {
